@@ -1,3 +1,4 @@
+#include "example_unit_test.hpp"
 #include "UCD_test.hpp"
 
 int main(int argc, char **argv) 
